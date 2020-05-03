@@ -1,3 +1,12 @@
+Delivery App
+
+
+Simple Pizza-delivery app in which the customer can select menu options, and the order confirmation will be sent by email. It contains a login and the app is responsible for calculating the final price
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
